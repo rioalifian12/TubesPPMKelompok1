@@ -4,4 +4,4 @@ Tugas Besar Mata Kuliah Praktikum Pemograman Mobile Kelompok 1 Kelas B 2023
 - Fauzan Ihsanudin R - 193040047
 - Muhammad Nur Firmansyah - 193040088
 - Naufal Hamid - 193040059
-- Vikri Aditya  - 193040066
+- Fikri Aditya Nugraha  - 193040066
